@@ -1,0 +1,8 @@
+
+librosa
+ipykernel
+matplotlib
+pandas
+pretty_midi
+music21
+ipd

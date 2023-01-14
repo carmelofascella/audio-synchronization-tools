@@ -1,0 +1,4 @@
+Fs: 22050
+features_per_second: 50
+tot_pitch: 85 #(108+1) - 24
+dur_plot: 10 #seconds
