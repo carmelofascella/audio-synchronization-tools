@@ -1,7 +1,11 @@
 # Audio Synchronization tools
 
-This repository hosts the scripts to synchronize different representation of the same song (audio or symbolic files).
-The algorithm is based on the paper "High resolution audio synchronization using chroma onset features".
+This repository hosts the scripts used to synchronize different representation of the same song (audio or symbolic files).
+
+The algorithm is based on the paper <a href="https://ieeexplore.ieee.org/abstract/document/4959972" target="_blank">High resolution audio synchronization using chroma onset features</a>.
+
+This repo was written during my internship in International Audio Labs in Erlangen in 2020/2021.
+The data folder is not available for privacy reasons.
 
 ## 1. Setup
 
@@ -10,6 +14,7 @@ The algorithm is based on the paper "High resolution audio synchronization using
 ## 2. Execution
 
 `audio-audio synchronization.ipynb`: synchronization of two audio files containing the same song but played in different ways.
+
 `audio-symbolic synchronization.ipynb`: synchronization an audio file and a symbolic file containing the same song but played in different ways.
 
 ## 3. Problem
